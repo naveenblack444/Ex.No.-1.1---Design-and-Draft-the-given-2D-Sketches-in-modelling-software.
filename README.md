@@ -2,7 +2,7 @@
 
 ## AIM
 
-To sketch the given drawing with dimensions using fusion 360 tool.
+To sketch the given drawing with dimensions using fusion 360 tool..
 
 ## REQUIREMENTS
 
